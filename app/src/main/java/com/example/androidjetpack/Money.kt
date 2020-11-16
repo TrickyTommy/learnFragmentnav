@@ -1,7 +1,6 @@
 package com.example.androidjetpack
 
 import android.os.Parcelable
-import kotlinx.android.parcel.Parcelize
 import java.math.BigDecimal
 
 @Parcelize
